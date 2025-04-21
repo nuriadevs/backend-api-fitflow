@@ -144,7 +144,7 @@ You can send chat requests using the following examples:
 
 ## Demo
 
-![backend api](media/backend-api/backend-api.png)
+![backend api](media/backend-api/backend-api.jpg)
 
 
 
