@@ -70,7 +70,7 @@ backend/
 
 	```bash
 	git clone https://github.com/nuriadevs/backend-api-fitflow
-	cd fitflow-app/backend
+	cd backend-api-fitflow
 	```
 
 2. Install dependencies:
@@ -144,7 +144,8 @@ You can send chat requests using the following examples:
 
 ## Demo
 
-<img src="./media/backend-api/backend-api.png" alt="backend api" width="600" />
+![backend api](./media/backend-api/backend-api.png)
+
 
 
 
