@@ -106,7 +106,7 @@ Puedes hacer solicitudes al asistente; ten en cuenta que los datos de los ejerci
 
 ## Demo
 
-<img src="./media/backend-api/backend-api.png" alt="backend api" width="600" />
+<img src="./media/backend-api.jpg" alt="backend api" width="600" />
 
 [Watch video demo backend](https://youtu.be/7JgR5SAsv9U)
 
