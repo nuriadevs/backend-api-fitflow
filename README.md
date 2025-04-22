@@ -1,6 +1,9 @@
 
 # Backend - FitFlow App
 
+📘 Disponible también en [Español](./README.es.md)
+
+
 ## Overview
 
 FitFlow App is an AI-powered agent that helps users discover and get personalized workout recommendations. It uses a RAG (Retrieval-Augmented Generation) architecture with Upstash to optimize storage and semantic retrieval of workout.
